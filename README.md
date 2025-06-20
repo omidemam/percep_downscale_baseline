@@ -27,3 +27,10 @@ To clone this repository and get started:
 
 ```bash
 git clone https://github.com/omidemam/percep_downscale_baseline.git
+
+
+## Contact
+For questions, feedback, or collaboration opportunities, please contact:
+
+📧 Omid Emamjomehzadeh
+📨 omid.emamjomehzadeh@nyu.edu
