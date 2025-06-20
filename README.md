@@ -10,8 +10,6 @@ We use daily accumulated rainfall fields derived from the AORC dataset and apply
 - **Eight NOAA temporal patterns** (Region 2, Atlas 14) are used to disaggregate daily rainfall.
 - **Hourly rainfall plots** are produced for hours 2, 5, 10, 15, and 20 as examples.
 
-This approach can support flood modeling, stormwater design, and climate resilience analysis by incorporating realistic sub-daily rainfall variation from NOAA temporal patterns.
-
 > **Note:** The Region 2 temporal distributions can help better reflect the intra-day variability seen in Atlas 14 rainfall events, particularly in the Northeastern U.S.
 
 ## Repository Contents
