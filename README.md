@@ -20,7 +20,7 @@ We use daily accumulated rainfall fields derived from the AORC dataset and apply
 📄 Temporal_downscaling_baselines.ipynb   # Main notebook for downscaling and visualization
 📄 LICENSE                  # Licensing information
 📄 README.md                # This file
-
+```
 ## Getting Started
 
 To clone this repository and get started:
@@ -34,3 +34,7 @@ For questions, feedback, or collaboration opportunities, please contact:
 
 📧 Omid Emamjomehzadeh
 📨 omid.emamjomehzadeh@nyu.edu
+
+## Citation
+If you use this repository in your research or projects, please cite it as:
+Emamjomehzadeh, O. (2025). Temporal downscaling baselines using NOAA Atlas 14 patterns. GitHub. https://github.com/omidemam/percep_downscale_baseline
