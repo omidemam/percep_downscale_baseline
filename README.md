@@ -16,7 +16,7 @@ We use daily accumulated rainfall fields derived from the AORC dataset and apply
 
 ```plaintext
 📁 Figure/                  # Visualizations of downscaled rainfall at select hours
-📁 rainfall patterns/       # Contains the eight NOAA temporal distribution patterns
+📁 rainfall patterns/       # Contains the NOAA temporal distribution patterns
 📄 Temporal_downscaling_baselines.ipynb   # Main notebook for downscaling and visualization
 📄 LICENSE                  # Licensing information
 📄 README.md                # This file
